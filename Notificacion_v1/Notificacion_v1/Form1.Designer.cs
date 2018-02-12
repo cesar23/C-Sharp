@@ -36,7 +36,6 @@
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.minimixarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.timer_alert = new System.Windows.Forms.Timer(this.components);
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,34 +68,28 @@
             this.minimixarToolStripMenuItem});
             this.menuStrip.Name = "menuStrip";
             this.menuStrip.RenderMode = System.Windows.Forms.ToolStripRenderMode.System;
-            this.menuStrip.Size = new System.Drawing.Size(153, 92);
+            this.menuStrip.Size = new System.Drawing.Size(129, 70);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // mostrarToolStripMenuItem
             // 
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
-            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.mostrarToolStripMenuItem.Text = "Mostrar";
             this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // minimixarToolStripMenuItem
             // 
             this.minimixarToolStripMenuItem.Name = "minimixarToolStripMenuItem";
-            this.minimixarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.minimixarToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.minimixarToolStripMenuItem.Text = "Maximizar";
             this.minimixarToolStripMenuItem.Click += new System.EventHandler(this.minimixarToolStripMenuItem_Click);
-            // 
-            // timer_alert
-            // 
-            this.timer_alert.Enabled = true;
-            this.timer_alert.Interval = 3000;
-            this.timer_alert.Tick += new System.EventHandler(this.timer_alert_Tick);
             // 
             // Form1
             // 
@@ -120,7 +113,6 @@
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mostrarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem minimixarToolStripMenuItem;
-        private System.Windows.Forms.Timer timer_alert;
     }
 }
 

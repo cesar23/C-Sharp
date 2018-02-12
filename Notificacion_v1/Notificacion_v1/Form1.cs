@@ -26,17 +26,7 @@ namespace Notificacion_v1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            DateTime thisDay = DateTime.Today;
-
-            String hora=  DateTime.Now.ToString("hh");
-            Console.WriteLine(hora);
-            Console.WriteLine(thisDay.ToString("t"));
-            Console.WriteLine(thisDay.ToString("T"));
-
-            DateTime thisDate = DateTime.Today;
-            Console.WriteLine(Utility.Date_class.dateFull_ES());           // Displays 3/15/2008
-            Console.WriteLine(DateTime.Now.ToString("HH"));
-
+  
         }
 
         protected void changedSize(EventArgs e)
@@ -104,20 +94,6 @@ namespace Notificacion_v1
             MessageBox.Show("OLAAA");
         }
 
-        private void timer_alert_Tick(object sender, EventArgs e)
-        {
 
-            string hora = Utility.Date_class.hour();//hora actual en format 24
-
-            if (hora.Equals("17") || hora.Equals("18"))
-            {
-
-            }
-            
-            
-
-
-                    
-        }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacio
 C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.exe
 C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.pdb
+D:\C#\Notificacion_v1\Notificacion_v1\bin\Debug\Notificacion_v1.exe.config
+D:\C#\Notificacion_v1\Notificacion_v1\bin\Debug\Notificacion_v1.exe
+D:\C#\Notificacion_v1\Notificacion_v1\bin\Debug\Notificacion_v1.pdb
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csprojResolveAssemblyReference.cache
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.Form1.resources
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.Properties.Resources.resources
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csproj.GenerateResource.Cache
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csproj.CoreCompileInputs.cache
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.exe
+D:\C#\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.pdb
