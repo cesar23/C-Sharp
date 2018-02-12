@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\bin\Debug\Notificacion_v1.exe.config
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\bin\Debug\Notificacion_v1.exe
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\bin\Debug\Notificacion_v1.pdb
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.Form1.resources
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.Properties.Resources.resources
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.exe
+C:\Users\user\source\repos\Notificacion_v1\Notificacion_v1\obj\Debug\Notificacion_v1.pdb
